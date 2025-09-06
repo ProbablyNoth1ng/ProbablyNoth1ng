@@ -6,7 +6,7 @@
   
 <p align='center'>
    <a href="https://www.linkedin.com/in/andriikaplan"><img height="30" src="https://github.com/ProbablyNoth1ng/ProbablyNoth1ng/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:andrii.kaplan.work@gmail.com?subject=Hello%20there&body=I%20wanted%20to%20reach%20out..."><img height="30" src="https://github.com/ProbablyNoth1ng/ProbablyNoth1ng/blob/main/assets/gmail.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:andrii.kaplan.work@gmail.com"><img height="30" src="https://github.com/ProbablyNoth1ng/ProbablyNoth1ng/blob/main/assets/gmail.png?raw=true"></a>&nbsp;&nbsp;
  </p>
  <p align='center'>
    😄 Andrii Kaplan / 💻 Full Stack Developer / 📍 Poland
