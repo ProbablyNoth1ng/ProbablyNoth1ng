@@ -43,11 +43,19 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=ProbablyNoth1ng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ProbablyNoth1ng&theme=dark&hide_border=false) 
+<span align=center>
 
-<div align='center'>
-<img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVpaTZmZzh5cGhkZXJ0bnJ2YjVoZ2tpdWFna2czNDJxdW1tcTM1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" />
-</div> 
+![](https://github-readme-stats.vercel.app/api?username=ProbablyNoth1ng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+</span>
+<br/>
+<span align=center>
+<img  height="230px"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVpaTZmZzh5cGhkZXJ0bnJ2YjVoZ2tpdWFna2czNDJxdW1tcTM1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" />
+
+</span>
+
+ 
+
+
+
 
 
